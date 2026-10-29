@@ -1,4 +1,4 @@
-<a href="https://northflow.no"><img src="assets/northflow-mark.svg" alt="Northflow" width="48" height="48"></a>
+<a href="https://northflow.no"><img src="https://raw.githubusercontent.com/northflowlabs/northflowlabs/main/assets/northflow-mark.svg" alt="Northflow" width="48" height="48"></a>
 
 # Northflow Technologies AS
 
